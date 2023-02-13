@@ -1,0 +1,35 @@
+
+body {
+    color: azure;
+}
+
+.container-fluid {
+    max-width: 80%;
+}
+
+.title-text {
+    text-align: center;
+}
+
+img {
+    object-fit:contain;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+}
+
+table {
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+}
+
+td {
+    color:azure;
+}
+
+a {
+    text-decoration: none;
+}
